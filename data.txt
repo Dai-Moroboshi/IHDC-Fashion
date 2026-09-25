@@ -1,0 +1,181 @@
+Tóm tắt catalogue HDC/IHDC Fashion (dùng làm brief nội dung website)
+1. Tổng quan thương hiệu
+Tên: HDC Fashion (catalogue có chỗ ghi "IHDC", xem phần lưu ý bên dưới)
+Slogan: "Phong cách tạo thành công"
+Website hiện có: hdcfashion.vn
+Lĩnh vực: thời trang công sở và đồng phục (doanh nghiệp, trường học, golf/sự kiện)
+Định vị: thương hiệu Việt, đề cao phát triển bền vững và giá trị văn hóa Việt Nam
+Tông màu chủ đạo trong catalogue: xanh ngọc/teal (
+#0097B2 xấp xỉ) trên nền trắng, giao diện sạch, hiện đại
+2. Các điểm bán hàng nổi bật
+
+Chất liệu xanh bền vững
+
+Sơ mi 100% sợi tự nhiên, thân thiện môi trường
+Nguyên liệu: Modal, Bamboo, sợi bạc hà, sợi sen, sợi chuối (nhấn mạnh xơ dừa, tơ chuối của Việt Nam)
+5 lợi ích: siêu mềm mượt, bền đẹp giữ màu tốt, kháng khuẩn thoáng khí, không cần là ủi, thân thiện môi trường
+
+Công nghệ sơ mi không đường may (Seamless)
+
+Liền mạch ở tay áo, nẹp áo, vạt áo
+Vải co giãn 4 chiều, trọng lượng siêu nhẹ, mềm mịn
+Có nhiều màu: xanh, xám, hồng, xanh mint (dạng kẻ sọc)
+
+Họa tiết văn hóa Việt
+
+Lấy cảm hứng từ: Hang Xóm Trại, Núi Đầu Rồng, Trống đồng cổ, Suối nước nóng Kim Bôi
+Ứng dụng lên sơ mi, cà vạt, thắt lưng, ví da (phụ kiện làm tỉ mỉ)
+3. Nhóm sản phẩm
+Nhóm	Nội dung
+Sơ mi nam (Best Seller)	Ngắn tay, dài tay, không đường may, sơ mi trắng, sơ mi họa tiết văn hóa
+Vest	Vest nam công sở
+Polo người lớn	Phong cách trẻ trung, thấm hút tốt, chống nắng Anti-UV; nhiều màu (đỏ, navy, xanh dương, đen, trắng)
+Phụ kiện	Ví da, thắt lưng họa tiết, cà vạt
+Đồng phục doanh nghiệp / golf	Polo, sơ mi, vest theo yêu cầu
+Đồng phục học sinh (IHDC Kids)	Polo trẻ em (trắng, navy, đỏ, vàng, nâu), sơ mi dài/ngắn tay, sơ mi xanh, vest + váy/quần cho bé
+4. Dịch vụ và chính sách (nên đặt ở trang Đồng phục)
+Tư vấn, thiết kế miễn phí, hợp với hình ảnh và giá trị của trường/doanh nghiệp
+Không giới hạn số lần sửa mẫu
+Đa dạng mẫu, chất liệu, màu sắc và form áo cho mọi vóc dáng
+Giá phù hợp nhiều phân khúc
+Chiết khấu, ưu đãi cho doanh nghiệp và đơn số lượng lớn
+Giao hàng miễn phí toàn quốc
+5. Dự án/khách hàng tiêu biểu (dùng cho mục "Đối tác/Dự án")
+Đồng phục golf cho Giải Golf kỷ niệm 30 năm phong trào Doanh nhân trẻ Việt Nam (sân golf Long Biên, 26/11/2023), có sự tham dự của lãnh đạo Hội DNT Việt Nam
+Hình ảnh đồng phục học sinh từ nhiều trường (có ảnh lễ khai giảng Vinschool), mẫu polo đội bóng/đội trẻ
+6. Thông tin liên hệ
+Hotline: 0984 95 95 86
+Văn phòng: Số 6, Kim Đồng, Hoàng Mai, Hà Nội
+Website: hdcfashion.vn
+7. Gợi ý cấu trúc website
+Trang chủ: banner + slogan, 3 điểm mạnh (chất liệu xanh, không đường may, họa tiết văn hóa), best seller, CTA "Nhận tư vấn miễn phí"
+Về chúng tôi: câu chuyện thương hiệu, phát triển bền vững, văn hóa Việt
+Sản phẩm: Sơ mi, Vest, Polo, Phụ kiện
+Đồng phục: Doanh nghiệp/Golf và Trường học (IHDC Kids)
+Chất liệu và công nghệ: vải xanh, seamless
+Dự án tiêu biểu
+Liên hệ/Báo giá: form đăng ký tư vấn, hotline, địa chỉ, bản đồ
+8. Điểm cần xác nhận với khách trước khi làm
+Tên thương hiệu không thống nhất: logo ghi "HDC Fashion" nhưng nội dung nhiều chỗ viết "IHDC". Cần chốt tên chính thức.
+Lỗi chính tả trong catalogue: "SAEMLESS" (đúng là Seamless), "DNT" nên ghi rõ là Doanh nhân trẻ, và có chỗ ghi "Sơ mi xanh IHDC" hơi khó hiểu về tên sản phẩm.
+Không có giá, mã sản phẩm, bảng size, nên cần khách cung cấu nếu website có bán hàng hay chỉ giới thiệu/nhận báo giá.
+Bản quyền hình ảnh: ảnh khách hàng (Vinschool, Hội DNT, người mẫu) và một số ảnh họa tiết văn hóa cần khách xác nhận được phép dùng; có ảnh còn watermark ("BELUX").
+Catalogue đề ngày 28/12/2023, nên nên kiểm tra thông tin liên hệ và chính sách còn đúng không.
+Phần "Đồng phục" đang nhắm cả doanh nghiệp lẫn trường học, nên cần chốt nhóm khách hàng ưu tiên.
+
+Nếu bạn muốn, tôi có thể viết luôn nội dung chi tiết cho từng trang (tiêu đề, đoạn giới thiệu, CTA) hoặc dựng thử một trang chủ mẫu.
+
+với website thì vai trò, nhiệm vụ, đầu ra... là j
+
+Làm rõ vai trò, nhiệm vụ và đầu ra của website.
+Vai trò, nhiệm vụ, đầu ra của website HDC Fashion
+
+Đây là phần tôi suy ra từ catalogue. Bạn nên xác nhận lại với khách, nhất là mục 1.
+
+1. Vai trò của website
+
+Nội dung catalogue cho thấy website nên là website giới thiệu thương hiệu kèm thu khách hàng tiềm năng (lead), chưa phải sàn bán lẻ. Lý do là catalogue không có giá, mã sản phẩm hay bảng size, còn trọng tâm là đồng phục đặt theo yêu cầu (tư vấn, thiết kế miễn phí, chiết khấu số lượng lớn).
+
+Giới thiệu thương hiệu: chất liệu xanh, công nghệ không đường may, họa tiết văn hóa Việt
+Trưng bày sản phẩm: sơ mi, vest, polo, phụ kiện, đồng phục doanh nghiệp và học sinh
+Tạo uy tín: dự án tiêu biểu như giải golf DNT, các trường học
+Thu khách hàng B2B: doanh nghiệp, trường học để lại thông tin nhận tư vấn hoặc báo giá
+Hỗ trợ SEO: để khách tìm "đồng phục công sở", "đồng phục học sinh" tại Hà Nội và toàn quốc thì thấy khách hàng
+2. Nhiệm vụ cần làm
+Giai đoạn	Việc cần làm
+Khảo sát	Chốt mục tiêu, đối tượng khách hàng ưu tiên, tên thương hiệu chính thức, có bán online hay không, tham khảo đối thủ
+Nội dung	Xây sitemap, viết nội dung từng trang, gom và xử lý ảnh, xin khách xác nhận bản quyền ảnh
+Thiết kế	Wireframe, giao diện (theo tông xanh teal của thương hiệu), bản desktop và mobile
+Lập trình	Dựng website, form liên hệ/báo giá, tối ưu tốc độ, chuẩn SEO cơ bản, tích hợp Zalo/hotline/Google Maps
+Kiểm thử	Test trên nhiều thiết bị và trình duyệt, kiểm tra form gửi được, sửa lỗi
+Bàn giao	Đưa lên hosting/tên miền, hướng dẫn khách tự cập nhật nội dung
+3. Đầu ra (deliverables)
+Sitemap và cấu trúc trang (Trang chủ, Về chúng tôi, Sản phẩm, Đồng phục, Chất liệu và công nghệ, Dự án, Liên hệ)
+Thiết kế giao diện (file Figma hoặc bản demo)
+Website hoàn chỉnh, chạy tốt trên máy tính và điện thoại
+Form nhận tư vấn/báo giá, gửi về email hoặc Zalo của khách
+Cài đặt cơ bản: SEO, Google Analytics, sitemap.xml, chứng chỉ SSL
+Tài liệu bàn giao: tài khoản quản trị, hướng dẫn sử dụng, mã nguồn nếu thỏa thuận
+4. Các chỉ số đo hiệu quả (nếu khách hỏi)
+Số lượt gửi form tư vấn/báo giá mỗi tháng
+Số lượt gọi hotline hoặc bấm Zalo từ website
+Lượng truy cập từ Google cho các từ khóa về đồng phục
+5. Nên chốt với khách ngay từ đầu
+Website chỉ giới thiệu và nhận báo giá, hay có giỏ hàng, thanh toán online? (khác nhau rất nhiều về chi phí và thời gian)
+Ngân sách, thời hạn, và số trang.
+Ai cung cấp ảnh và nội dung, ai có quyền sửa website sau khi bàn giao.
+Có cần bảo trì, hosting, tên miền sau bàn giao không (thường tính phí riêng).
+Số lần chỉnh sửa giao diện được phép, để tránh phát sinh ngoài hợp đồng.
+
+Nếu bạn nói cho tôi biết mình làm vai trò nào (làm một mình hay trong team, phụ trách thiết kế hay lập trình), tôi sẽ viết lại phạm vi công việc sát hơn, kèm mẫu bảng báo giá hoặc timeline.
+
+Lên kế hoạch thiết kế website và quy trình thực hiện.
+Đề xuất website HDC Fashion và quy trình thực hiện
+A. Đề xuất website
+
+Loại website: website thương hiệu kết hợp thu khách hàng tiềm năng (lead), tập trung vào đồng phục. Bán lẻ online để giai đoạn 2.
+
+1. Cấu trúc trang (7 trang chính)
+Trang	Nội dung chính	Mục đích
+Trang chủ	Banner + slogan "Phong cách tạo thành công", 3 điểm mạnh, sản phẩm nổi bật, dự án tiêu biểu, CTA tư vấn	Gây ấn tượng, dẫn khách đi tiếp
+Về chúng tôi	Câu chuyện thương hiệu, phát triển bền vững, văn hóa Việt	Xây niềm tin
+Sản phẩm	Sơ mi, Vest, Polo, Phụ kiện (xem, không có giỏ hàng)	Trưng bày
+Đồng phục	2 mục: Doanh nghiệp/Golf và Trường học (IHDC Kids), kèm quy trình đặt và chính sách	Trang quan trọng nhất
+Chất liệu và công nghệ	Sợi xanh, không đường may, họa tiết văn hóa	Tạo khác biệt
+Dự án tiêu biểu	Giải golf DNT, các trường học	Chứng minh uy tín
+Liên hệ / Nhận báo giá	Form, hotline, địa chỉ, bản đồ	Chốt lead
+2. Chức năng cần có
+Form nhận tư vấn/báo giá ngắn (tên, SĐT, đơn vị, loại đồng phục, số lượng), gửi về email hoặc Zalo của khách
+Nút gọi hotline và Zalo cố định trên điện thoại (khách Việt Nam liên hệ qua Zalo rất nhiều)
+Thư viện ảnh sản phẩm lọc theo nhóm (sơ mi, polo, vest, kids)
+Giao diện mobile-first, tải nhanh
+SEO cơ bản cho từ khóa như "đồng phục công sở Hà Nội", "đồng phục học sinh", "áo polo đồng phục"
+Trang quản trị dễ dùng để khách tự đăng dự án và sản phẩm mới
+3. Hướng thiết kế
+Màu chủ đạo: xanh teal (theo logo và catalogue), nền trắng, điểm nhấn xám nhạt
+Phong cách: sạch, hiện đại, nhiều ảnh lớn, ít chữ
+Họa tiết văn hóa (trống đồng, núi Đầu Rồng...) dùng làm chi tiết trang trí, không lạm dụng
+Giọng văn: lịch sự, chuyên nghiệp, gần gũi
+4. Công nghệ gợi ý
+WordPress (Elementor hoặc theme phù hợp): dễ làm, khách tự sửa nội dung được, nhiều plugin form/SEO. Phù hợp nhất nếu bạn muốn nhanh và khách cần tự quản trị.
+Code riêng (Next.js hoặc HTML/CSS/JS + CMS): đẹp và nhanh hơn, tùy biến cao, nhưng khách khó tự cập nhật và bạn mất nhiều thời gian hơn.
+
+Nếu bạn làm một mình hoặc gấp, tôi nghiêng về WordPress. Bạn chọn theo kỹ năng và yêu cầu của khách.
+
+B. Quy trình thực hiện
+Bước	Công việc	Kết quả	Thời gian ước tính*
+1. Khảo sát và chốt yêu cầu	Họp với khách, chốt mục tiêu, tên thương hiệu, phạm vi, ngân sách, hạn chót. Xem website hiện tại và đối thủ.	Bản yêu cầu (brief) đã khách xác nhận	2 đến 4 ngày
+2. Lập sitemap và wireframe	Vẽ cấu trúc trang và bố cục thô từng trang	Sitemap, wireframe	3 đến 5 ngày
+3. Chuẩn bị nội dung	Viết chữ cho từng trang, gom ảnh, xin khách xác nhận bản quyền ảnh	Bộ nội dung và ảnh đầy đủ	5 đến 7 ngày
+4. Thiết kế giao diện	Thiết kế desktop và mobile (Figma), khách góp ý	Thiết kế được khách duyệt	5 đến 7 ngày
+5. Lập trình / dựng web	Dựng trang, gắn form, Zalo/hotline, bản đồ, tối ưu tốc độ	Website chạy bản thử	7 đến 10 ngày
+6. Kiểm thử	Test mobile/desktop, trình duyệt, form gửi được, sửa lỗi	Website ổn định	2 đến 3 ngày
+7. Bàn giao và ra mắt	Đưa lên hosting/tên miền, cài SSL, Analytics, hướng dẫn khách	Website chính thức, tài liệu bàn giao	1 đến 2 ngày
+8. Bảo hành / hỗ trợ	Sửa lỗi trong thời gian cam kết	Hỗ trợ sau ra mắt	Thỏa thuận
+
+*Tổng khoảng 4 đến 6 tuần, tùy khách phản hồi nhanh hay chậm. Đây là ước tính chung của tôi, bạn nên điều chỉnh theo năng lực và quy mô thực tế.
+
+C. Việc nên làm ngay bây giờ
+Gửi khách danh sách câu hỏi cần xác nhận: tên thương hiệu chính thức, chỉ nhận báo giá hay có bán online, ngân sách, hạn chót, ai cung cấp ảnh và nội dung, có cần bảo trì/hosting sau bàn giao.
+Chốt phạm vi bằng văn bản (số trang, số lần sửa giao diện) để tránh phát sinh.
+Xin khách ảnh gốc chất lượng cao và xác nhận quyền dùng ảnh khách hàng.
+
+Bạn muốn tôi làm tiếp phần nào trước? Tôi có thể soạn bản câu hỏi gửi khách, nội dung chi tiết từng trang, hoặc dựng thử trang chủ mẫu để bạn cho khách xem.
+
+dạng này trong it hay gọi là web j
+
+Trong IT, dạng này thường gọi là website giới thiệu doanh nghiệp (tiếng Anh: Corporate Website hoặc Company Website). Nếu nhấn vào mục tiêu thu khách thì gọi là Lead Generation Website.
+
+Các tên gọi thường gặp
+Tên gọi	Ý nghĩa	Khớp với dự án này
+Corporate / Company Website	Website giới thiệu công ty: về chúng tôi, sản phẩm, dịch vụ, liên hệ	Đúng nhất
+Brochure Website	Website "tờ rơi/catalogue online": trưng bày thông tin, không có giỏ hàng	Rất khớp (giai đoạn 1)
+Showcase / Portfolio Website	Trưng bày sản phẩm và dự án đã làm	Khớp phần Sản phẩm và Dự án
+Lead Generation Website	Thiết kế để khách để lại thông tin (form, SĐT)	Khớp mục tiêu chính
+Landing Page	Chỉ 1 trang, tập trung một mục tiêu (ví dụ đăng ký báo giá)	Chỉ khi khách muốn bản rất gọn
+Phân biệt với các loại khác
+Website thương mại điện tử (E-commerce): có giỏ hàng, thanh toán online, quản lý đơn hàng. Đây là giai đoạn 2 nếu khách muốn bán lẻ.
+Blog / Tin tức: thiên về đăng bài. Dự án này có thể thêm mục tin tức để hỗ trợ SEO nhưng không phải trọng tâm.
+Cách gọi khi báo giá hoặc trao đổi với khách
+
+Bạn có thể nói: "Website giới thiệu doanh nghiệp (Corporate Website) kết hợp thu khách hàng tiềm năng, có trưng bày sản phẩm dạng catalogue." Khách dễ hiểu và bạn cũng dễ chốt phạm vi công việc.
